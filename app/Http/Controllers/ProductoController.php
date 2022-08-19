@@ -49,7 +49,7 @@ class ProductoController extends Controller
 
     /**
      * Update the specified resource in storage.
-     *
+     * test
      * @param  \Illuminate\Http\Request  $request
      * @param  \App\Models\Producto  $producto
      * @return \Illuminate\Http\Response
